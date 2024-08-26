@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'sa';
+    src: url(Saturday\ Sweat.otf);
+}
+body{
+    background-color:#664229;
+    font-family: 'sa';
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    color: #E5D3B3;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    color: #E5D3B3;
+}
+section{
+    width: 60vw;
+    height: 30vh;
+    margin-top: 150px;
+    align-items: center;
+    text-align: center;
+   border: dashed 4px #E5D3B3;
+   margin-left: 350px;
+}
+img{
+    margin-left: 1450px;
+}
